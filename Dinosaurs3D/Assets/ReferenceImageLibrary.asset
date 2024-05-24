@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5666618943444158105
+  m_GuidHigh: 7118323779588205444
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4615773682877410872
+      m_GuidHigh: 11093598971580356498
+    m_SerializedTextureGuid:
+      m_GuidLow: 2654065728125700097
+      m_GuidHigh: 1572409319535472138
+    m_Size: {x: 0.1, y: 0.08087248}
+    m_SpecifySize: 1
+    m_Name: Pachycephalasaurus
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5491000373494611387
+      m_GuidHigh: 17791370419684457345
+    m_SerializedTextureGuid:
+      m_GuidLow: 15336280461083691145
+      m_GuidHigh: 1630116621499400776
+    m_Size: {x: 0.1, y: 0.066700004}
+    m_SpecifySize: 1
+    m_Name: Stegasaurus
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5482319989906829538
+      m_GuidHigh: 497015843313556905
+    m_SerializedTextureGuid:
+      m_GuidLow: 1504477751869096384
+      m_GuidHigh: 13805841379409084170
+    m_Size: {x: 0.1, y: 0.10789116}
+    m_SpecifySize: 1
+    m_Name: Velociraptors
+    m_Texture: {fileID: 0}
